@@ -311,5 +311,5 @@ $ rosrun fusion_octomap metricNode
 "metric logodds", "metric Iou", "metric correlation", will be printed in the last three rows, the three values of these three metrics will be printed out in this order.
 ---
 The kit used for spherical scanning is demonstrated below.
-![3D_scanning_kit](3D_scanning.jpg)
+![3D_scanning_kit](trolley_motion.jpg)
 <br />&emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp;  &emsp;  &emsp;&emsp; &emsp;  &emsp;  &emsp;2D scanning kit<br />
