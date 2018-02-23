@@ -1,3 +1,14 @@
+
+/*****************************************************************************/
+/* File:        compar_octrees.cpp                                           */
+/* Description: metrics IoU, logged ratio erros, correlation                 */
+/*              can be run from ros node                                     */
+/*              setpoints for each degree of freedom                         */
+/* Email:       alexander.kang@tum.de                                        */
+/* Author:      alexander.kang                                               */
+/* Date:        12-2017                                                      */
+/*****************************************************************************/
+
 /*
  *Metric based on OctoMap
  */
